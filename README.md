@@ -9,10 +9,10 @@ Results:
 
 ![Original](results/autoencoder_20190806_185428_in_128.png?raw=true)
 
-*Reconstructed image - from 128 values, ~1.3 bits per pixel*
+*Reconstructed image - from 128 bytes, ~1.3 bits per pixel*
 
 ![Reconstructed 128](results/autoencoder_20190806_185440_out_128.png?raw=true)
 
-*Reconstructed image - from 64 values, ~0.65 bits per pixel*
+*Reconstructed image - from 64 bytes, ~0.65 bits per pixel*
 
 ![Reconstructed 64](results/autoencoder_20190806_185857_out_64.png?raw=true)
